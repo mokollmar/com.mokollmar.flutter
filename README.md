@@ -1,6 +1,6 @@
 # Simple Flutter Website
+This repository contains the code for a simple profile website, entirely developed using Flutter. 
 
-This is a smple profile Website written in Flutter.
 
 ## Features
 - 📍 Positioned Contact Button in the top-right corner
@@ -8,6 +8,7 @@ This is a smple profile Website written in Flutter.
 - 🎨 Smooth Opacity Transition Animation
 - 💗 Pulsing Animation for the profile picture
 - 📱 Optimized for Mobile and Tablet Viewports
+- 🔠 Custom Font (tiltNeon)
 
 ## Screenshot
 ![Screenshot](https://github.com/mokollmar/com.mokollmar.flutter/blob/main/Screenshot.png)
